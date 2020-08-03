@@ -28,6 +28,7 @@
 * Code Spell Check
 * Indent Rainbow
 * asciidocs and asciidoctor
+* kite
 
 ## Settings
 
