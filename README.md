@@ -27,6 +27,7 @@
 * Gitlens
 * Code Spell Check
 * Indent Rainbow
+* asciidocs and asciidoctor
 
 ## Settings
 
