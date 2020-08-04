@@ -1,5 +1,7 @@
 # VSCode-setup
 
+[**Complete List of Synced Settings**](https://gist.github.com/gwenf/a9e3a9859f55b1fed72ca7137a87c8ba)
+
 ## Plugins
 
 * html
