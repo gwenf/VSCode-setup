@@ -6,6 +6,7 @@
 
 * html
 * npm intellisense
+* Settings Sync
 * vue
 	* Vetur
 * JavaScript
@@ -21,7 +22,7 @@
 	* Bracket Pair Colorizer
 * VSCode Liveshare
 * Autoformatting
-	* Beautify
+	* ESLint
 
 ### Plugins I want to try:
 
