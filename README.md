@@ -4,7 +4,6 @@
 
 ## Plugins
 
-* html
 * npm intellisense
 * Settings Sync
 * vue
