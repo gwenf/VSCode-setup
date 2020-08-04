@@ -5,6 +5,7 @@
 ## Plugins
 
 * npm intellisense
+* Kite - AI Autocompletor
 * Settings Sync
 * vue
 	* Vetur
@@ -31,7 +32,6 @@
 * Indent Rainbow
 * asciidocs and asciidoctor
 * AI Autocompleters
-	* Kite
 	* TabNine
 
 ## Settings
