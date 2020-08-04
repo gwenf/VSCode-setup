@@ -28,7 +28,9 @@
 * Code Spell Check
 * Indent Rainbow
 * asciidocs and asciidoctor
-* kite
+* AI Autocompleters
+	* Kite
+	* TabNine
 
 ## Settings
 
